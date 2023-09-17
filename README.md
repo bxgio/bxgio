@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bxgio" alt="bxgio" /></a> </p>
 
-- 🔭 I’m current project [React Native Job Portal](https://bit.ly/3Rkxsmf)
+- 🔭 My current project [React Native Job Portal](https://bit.ly/3Rkxsmf)
 
 - 🌱 I’m currently learning **React Native**
 

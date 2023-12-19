@@ -11,7 +11,7 @@
 
 - 👨‍💻 Visit my portfolio website [https://bit.ly/BagioPortfolio](https://bit.ly/BagioPortfolio)
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, web development**
 
 - 📫 How to reach me **bagionjr13@gmail.com**
 

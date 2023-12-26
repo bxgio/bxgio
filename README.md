@@ -7,7 +7,7 @@
 
 - 🔭 My current project [React Native Job Portal](https://bit.ly/3Rkxsmf)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 👨‍💻 Visit my portfolio website [https://bit.ly/BagioPortfolio](https://bit.ly/BagioPortfolio)
 
